@@ -304,9 +304,6 @@ added to the Security groups.
 5. Submit a pull request
 
 
-## Versioning
 
-This project uses [SemVer](http://semver.org/) for versioning. For the versions
-available, see the [tags on this repository](https://github.com/fscm/packer-aws-openvpn/tags).
 
 
